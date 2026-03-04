@@ -1,14 +1,11 @@
-{
-  "name": "FeraSparta Repo",
-  "extensions": [
-    {
-      "name": "AnimeFire",
-      "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-      "apk": "animefire.apk",
-      "lang": "pt-BR",
-      "code": 15,
-      "version": "1.4.15",
-      "baseUrl": "https://animefire.io"
-    }
-  ]
-}
+[
+  {
+    "name": "AnimeFire",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
+    "apk": "animefire.apk",
+    "lang": "pt-BR",
+    "code": 100,
+    "version": "2.0.0",
+    "baseUrl": "https://animefire.io"
+  }
+]
